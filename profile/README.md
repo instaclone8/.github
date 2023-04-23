@@ -6,9 +6,7 @@
 
 👨‍👩‍👧‍👦  8조 : FE [송철환](https://github.com/SsongCh94) [김재란](https://github.com/gitjaeran), BE [류준영](https://github.com/SLIPPECAT) [장동희](https://github.com/DongHee980630) [홍다정](https://github.com/bambee83)
 
-# [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/vYJY0NuBx9Y)](https://youtu.be/vYJY0NuBx9Y)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://fragrant-rayon-aab.notion.site/8-bcd7811b4e404cfebd791d65f6d29372)](https://fragrant-rayon-aab.notion.site/8-bcd7811b4e404cfebd791d65f6d29372) [![S3 Badge](https://img.shields.io/badge/S3-569A31?style=flat-round&logo=amazon-aws&logoColor=white)](http://ssong.ch94.s3-website.ap-northeast-2.amazonaws.com/) 
-
-
+# [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/vYJY0NuBx9Y)](https://youtu.be/vYJY0NuBx9Y)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://fragrant-rayon-aab.notion.site/8-bcd7811b4e404cfebd791d65f6d29372)](https://fragrant-rayon-aab.notion.site/8-bcd7811b4e404cfebd791d65f6d29372) [![react Badge](https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=react&logoColor=white)](http://ssong.ch94.s3-website.ap-northeast-2.amazonaws.com/)
 
 <!--http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com/ 이부분은 변경이 필요한 부분 입니다 -->
 
